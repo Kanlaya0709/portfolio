@@ -5,7 +5,7 @@
 
 /* Some default document settings. */
 body {
-	color: #777777;
+	color:  #FCF4D9;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	line-height: 30px;
 	text-align: left;
@@ -15,9 +15,9 @@ body {
 
 header	{
 	float: left;
-	background-color: #4aaaa5;
+	background-color:  #FF7A5A;
 	border-bottom: none;
-	color: #ffffff;
+	color: #462066;
 	height: 100%;
 	width: 270px;
 	margin-left: 125px;
@@ -32,7 +32,7 @@ header	{
 
 h2,
 h3	{
-	color: #4aaaa5;
+	color:   #462066;
 	border-bottom:	3px solid #dddddd;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	margin-top: 1px;
@@ -64,7 +64,7 @@ li.border {
 }
 
 a {
-	color: #777777;
+	color:  #FCF4D9;
 	text-decoration: none;
 }
 
@@ -90,9 +90,9 @@ a:hover {
 }
 
 section	{
-	background-color: #ffffff;
+	background-color: #FF7A5A;
 	float: left;
-	color: #777777;
+	color:    #FCF4D9;
 	border: 2px solid #dddddd;
 }
 
@@ -119,7 +119,7 @@ footer {
 	vertical-align: middle;
 	padding: 18px;
 	height: 70px;
-	background-color: #666666;
+	background-color: #FCF4D9;
 	width: 100%;
 	border-bottom: none;
 	color: #777777;
@@ -128,7 +128,7 @@ footer {
 
 .header-container {
 	border-bottom: 2px solid #cccccc;
-	background-color: #ffffff;
+	background-color: #462066;
 	height: 60px;
 }
 
@@ -227,6 +227,7 @@ footer {
 }
 
 #contact-form {
+	
 	padding: 20px;
 	height: 500px;
 }
@@ -235,3 +236,10 @@ footer {
 	padding: 15px;
 	height: 500px;
 }
+
+/* #video{
+	position :center;
+	padding : 50;
+	width: 500;
+	height: 400;
+} */
